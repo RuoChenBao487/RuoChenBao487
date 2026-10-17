@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, Here's RuoChen Bao
 
-<!--
-**RuoChenBao487/RuoChenBao487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student majoring in Data Science and Big Data at China Agricultural University.
 
-Here are some ideas to get you started:
+I build Python/Pygame software with an emphasis on modular architecture, procedural generation, and runtime state persistence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Software engineering and interactive systems
+- Procedural generation and game systems
+- Runtime serialization and state management
+- Data-driven applications
+
+## Featured Project
+
+### Endless Dungeon 2D
+
+A modular Pygame endless dungeon featuring procedural biomes, nested rooms, achievements, and complete runtime save/restore.
+
+- Modular Python package architecture
+- Procedural ecology and room generation
+- Serializable runtime state
+- Automated regression testing
+
+[View the repository](https://github.com/RuoChenBao487/endless-dungeon-2d)
+
+## Beyond Code
+
+Badminton, Slay the Spire, Minecraft, and procedural game design.
